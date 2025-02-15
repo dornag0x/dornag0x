@@ -3,8 +3,8 @@
 
 I'm a passionate student at 42, crafting and exploring blockchain technology. I am deeply passionate about entrepreneurship and currently focusing on:
 
+- 🦀 Building with Rust for blockchain
 - 🎯 System programming in C
-- 🦀 Learning Rust for blockchain, data and many other
 - 🐧 Linux environment enthusiast
 
 <p align="center">
