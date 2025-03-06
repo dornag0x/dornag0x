@@ -3,9 +3,9 @@
 
 I'm a passionate student at 42, crafting and exploring blockchain technology. I am deeply passionate about entrepreneurship and currently focusing on:
 
-- 🦀 Building with Rust for blockchain
-- 🎯 System programming in C
-- 🐧 Linux environment enthusiast
+- ⛓️ Building on Solana
+- 🚀 Building startups (currently developing a Telegram trading bot and a cryptocurrency stipend platform)
+- 💹 Trading on Photon (faster trades, slower realization I’m broke!)
 
 <p align="center">
   <a href="https://skillicons.dev">
