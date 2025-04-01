@@ -4,7 +4,7 @@
 I'm a passionate student at 42, crafting and exploring blockchain technology. I am deeply passionate about entrepreneurship and currently focusing on:
 
 - ⛓️ Building on Solana (and exploring development on Avalanche)
-- 🚀 Building startups (currently developing a Telegram trading bot and a cryptocurrency stipend platform)
+- 🚀 Building startups
 - 💹 Trading on Photon (faster trades, slower realization I’m broke!)
 
 <p align="center">
