@@ -3,8 +3,8 @@
 
 I'm a passionate student at 42, crafting and exploring blockchain technology. I am deeply passionate about entrepreneurship and currently focusing on:
 
-- ⛓️ Building on Solana (and exploring development on Avalanche)
-- 🚀 Building startups
+- 🚀 Building startups on Solana
+- ⛓️ Developping blockchain solutions
 
 <p align="center">
   <a href="https://skillicons.dev">
