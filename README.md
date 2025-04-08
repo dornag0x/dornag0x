@@ -5,7 +5,6 @@ I'm a passionate student at 42, crafting and exploring blockchain technology. I 
 
 - ⛓️ Building on Solana (and exploring development on Avalanche)
 - 🚀 Building startups
-- 💹 Trading on Photon (faster trades, slower realization I’m broke!)
 
 <p align="center">
   <a href="https://skillicons.dev">
